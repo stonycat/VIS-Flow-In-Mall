@@ -69,12 +69,6 @@ There are two tables:
 * In time dimensions, compare the changes of customer behavior in different time periods.
 * In the shop dimension, horizontal comparison of different shops of customer spending.
 
-### Team And Assignment
-
-* 朱倩: Design the overall interface layout, and color of the webpage.
-* 徐蕴琪: construction of the project structure, generation of map, realization of histogram.
-* 董晨: realization of heatmap, legend, and interaction of data points.
-* 魏千程: Data preprocessing, realization of timeline and zoom of the map.
 
 ## Data Processing and Analysis  
 
